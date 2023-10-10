@@ -16,5 +16,4 @@ int main()
     }
     printf("CHANGES FOR STASH");
     printf("HARDRESET");
-    printf("for revert");
 }
