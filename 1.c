@@ -16,4 +16,5 @@ int main()
     }
     printf("THIS IS STAGE");
     printf("CHECKING");
+    print("git");
 }
