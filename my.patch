@@ -1,0 +1,21 @@
+diff --git a/1.c b/1.c
+index c39a3d5..9409f80 100644
+--- a/1.c
++++ b/1.c
+@@ -2,6 +2,7 @@
+ 
+ int main()
+ {
++    int i = 1;
+     int year;
+     float changes;
+     int newbranch1;
+@@ -16,4 +17,7 @@ int main()
+     }
+     printf("CHANGES FOR STASH");
+     printf("HARDRESET");
++    while(i=1){
++        printf("patch");
++    }
+ }
+\ No newline at end of file

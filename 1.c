@@ -2,6 +2,7 @@
 
 int main()
 {
+    int i = 1;
     int year;
     float changes;
     int newbranch1;
@@ -16,4 +17,7 @@ int main()
     }
     printf("CHANGES FOR STASH");
     printf("HARDRESET");
+    while(i=1){
+        printf("patch");
+    }
 }
