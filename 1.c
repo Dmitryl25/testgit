@@ -15,4 +15,5 @@ int main()
         printf("NO");
     }
     printf("THIS IS STAGE");
+    printf("CHECKING");
 }
